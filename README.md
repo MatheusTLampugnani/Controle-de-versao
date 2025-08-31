@@ -1,10 +1,10 @@
-```markdown
+```
 # Projeto de Gerência de Configuração de Software
 ```
 
 -----
 
-```markdown
+```
 Este repositório foi criado como parte de uma atividade para demonstrar os principais conceitos e práticas da **Gerência de Configuração de Software (GCS)**, como controle de versão, criação de branches e rastreabilidade de mudanças.
 ```
 
