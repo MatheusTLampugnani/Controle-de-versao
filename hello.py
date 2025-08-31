@@ -1,1 +1,1 @@
-print("Greetings from the new feature!")
+print("new feature")
